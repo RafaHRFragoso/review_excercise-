@@ -8,3 +8,4 @@ Exercicio de Revisão Nº 1
 6. Git Log e Git Status
 7. Commitando arquivos
 8. Utilizando Diff
+9. Desfazendo Commits
