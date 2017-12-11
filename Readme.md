@@ -1,4 +1,4 @@
-Exercicio de Revisão
+Exercicio de Revisão Nº 1
 
 1. Configurar Usuario e Email
 2. Criar Pasta e Inicializar repositório
