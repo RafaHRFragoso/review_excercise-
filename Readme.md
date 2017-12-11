@@ -9,3 +9,5 @@ Exercicio de Revisão Nº 1
 7. Commitando arquivos
 8. Utilizando Diff
 9. Desfazendo Commits
+10. Ligando repositório local a repositório remoto
+11. Enviando mudanças para repositório remoto
